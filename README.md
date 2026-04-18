@@ -6,3 +6,8 @@ Thư viện sử dụng:
 4. DFRobot_MICS
 5. EspSoftwareSerial
 6. https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+7. Adafruit_BusIO
+8. Adafruit_GFX_Library
+9. Adafruit_Unified_Sensor
+10. Arduino_DebugUtils
+11. Arduino_ESP32_OTA
